@@ -1,3 +1,6 @@
+# LiDAR Sensor modeling and Data augmentation with GANs for Autonomous driving
+https://arxiv.org/pdf/1905.07290.pdf
+
 Environment perception is crucial for safe Automated Driving. While a variety of sensors powers low-level perception,
 high-level scene understanding is enabled by computer vision, machine learning, and deep learning, where the main
 challenge is in data scarcity. On the one hand, deep learning
